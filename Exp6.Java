@@ -66,3 +66,8 @@ public class MyReceiver extends BroadcastReceiver {
 
 </LinearLayout>
 
+
+
+
+//AndroidMainifist.xml
+<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
